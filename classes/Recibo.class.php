@@ -2,7 +2,7 @@
 
 require_once '../model/Banco.inc.php';
 
-class Redibo{
+class Recibo{
     private $id;
     private $data_entrega;
     private $valor_placa;
